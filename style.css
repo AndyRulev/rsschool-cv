@@ -3,9 +3,6 @@
     font-family: Roboto;
     src: url("asset/fonts/Roboto/Roboto-Regular.ttf")
 }
-p {
-    font-size: 25px;
-}
 body {
     display: flex;
     flex-direction: column;
@@ -38,7 +35,22 @@ body {
   .section-item a:hover {
     color: #4d2323;
   }
+  .avatar{
+    border-radius: 50%;
+    max-width: 206px;
+    max-height: 206px;
+    display: block;
+    margin: 0px auto;
+  }
 
 html {
     scroll-behavior: smooth;
+  }
+  <style>
+  div{
+    border-radius: 50%;
+    max-width: 206px;
+    max-height: 206px;
+    display: block;
+    margin: 0px auto;
   }
