@@ -1,5 +1,44 @@
-<style>
-p {
-    font-size: 40px;
+
+@font-face {
+    font-family: Roboto;
+    src: url("asset/fonts/Roboto/Roboto-Regular.ttf")
 }
-</style>
+p {
+    font-size: 25px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .nav-list {
+    list-style: none;
+  }
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+  }
+  .nav-link {
+    transition: 0.3s;
+  }
+  .section-item a {
+    color: #829985;
+    text-decoration: none;
+    transition: color 0.5s;
+  }
+  .section-item a:hover {
+    color: #4d2323;
+  }
+
+html {
+    scroll-behavior: smooth;
+  }

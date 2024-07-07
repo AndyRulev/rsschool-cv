@@ -1,9 +1,9 @@
 # **Andrey Rulev**
 ## **Contacts:**
-* **Location:** Samara, Russia
-* **Phone:** +7-919-808-69-07
-* **Email:** rulevvv@mail.ru
-* **GitHub:** [AndyRulev](https://github.com/AndyRulev)
+**Location:** Samara, Russia
+**Phone:** +7-919-808-69-07
+**Email:** rulevvv@mail.ru
+**GitHub:** [AndyRulev](https://github.com/AndyRulev)
 ## **About Me**
 I am 31 years old. At the moment, I work on the second line of support in an IT company. In my free time, I play beach volleyball, tennis and ride a sap board. I have excellent communication skills, a great desire to learn and gain new knowledge and experience.
 ## **Skills**
