@@ -51,7 +51,7 @@ body {
   }
   
   .section {
-    width: 50%;
+    width: 100%;
   }
   @media (max-width: 768px) {
     .section {
@@ -60,7 +60,7 @@ body {
   }
   body {
     font-family: "Roboto", sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     line-height: 1.5;
     color: 2323;#4d
@@ -68,7 +68,7 @@ body {
   .section-title {  font-size: 25px;
     font-weight: 400;
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
     color: #03fd99;
   }
   .body {
